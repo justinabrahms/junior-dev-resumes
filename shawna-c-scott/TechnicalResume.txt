@@ -1,0 +1,64 @@
+Professional Experience
+38 Zeros							09/14 - Present
+Software Engineer
+Main developer responsible for feature implementation and maintenance of customer-facing Ruby on Rails application. Support sales and engineering team members as needed by onboarding new customers, troubleshooting customer hardware installations, and managing operations during relief rotations.
+
+Notable projects and responsibilities:
+Design and implement customer-facing and internal admin UI/UX and associated backend code.
+Implement site-wide authentication and authorization strategy.
+Design and implement public API.
+Analyze support requests to identify process improvements and create tools to streamline support flow.
+Create and maintain internal and public-facing product documentation.
+
+Stack: Postgres, Cassandra, Ruby, Rails, Capybara/RSpec/FactoryGirl, ERB, Bootstrap, OpenWRT, C, Python, Go.
+
+Portland Code School					12/13 - 09/14
+Associate Director
+Provide leadership for the overall strategic planning process and implement new programmatic and strategic initiatives.
+Serve as a liaison to Portland Code School’s partner organizations and the community.
+Ensure the continued financial viability of Portland Code School’s operational units.
+Freelance Web Developer
+Technical and design lead responsible for creating the comprehensive design, layout, and code for client websites using Middleman, Bootstrap, GitHub Pages, and Heroku.
+Manage a core team and community collaborators to achieve client goals.
+Teaching Assistant
+Assists teaching introductory web development class and assist students in setting up and streamlining collaborative workflows and development environments.
+Rentrak - Schedule Coordinator					12/12 - 3/14
+JPMorgan Chase Bank - Lead Teller				05/10 - 11/12
+
+
+Open Source Projects & Community Involvement
+
+Calagator - Calendar event aggregator			06/14 - Present
+Project maintainer
+Contribute and review code, maintain documentation, triage issues and bugs, and organize contributor outreach events.
+
+Women Who Hack						05/12 - Present
+Co-Organizer
+Coordinate and run user group for women interested in technology or hacking.
+Increase social media presence and outreach resulting in increase in membership.
+
+Conference Organizing
+
+Open Source Bridge - Co-Chair 				2016
+- Speaker/Volunteer 			2014 - 2015
+			- Selection Committee Member	2014
+Ruby on Ales	- Volunteer 					2014 - 2015
+Cascadia Ruby - Volunteer 					2014 - 2015
+
+Public Speaking
+
+KQED Forum								2015
+“The Rise of Coding Bootcamps”
+Open Source Bridge							2014
+“The Case for Junior Developers” [video]
+Devsigner Con							2014
+“The Coder as Artist: Painting with Pixels and Numbers”
+
+Publications
+
+	Model View Culture							2015
+	“The Code School-Industrial Complex”
+Education & Training
+
+Portland Code School, Ruby on Rails				2013
+University of Georgia, BFA, Ceramics				2009, Cum Laude
