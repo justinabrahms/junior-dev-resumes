@@ -1,0 +1,14 @@
+Dear CrowdCompass team,
+
+I am excited about the Ruby software engineer position with your company! CrowdCompass has always impressed me as an organization dedicated to community, both through your product and through tech community support. I began my career as a Rubyist at the PDX Ruby meetups you hosted, so thank you!
+
+I have spent my last few years working as a Ruby/Rails developer during the day, and as a volunteer tech event organizer and open source contributor at night.
+
+At my current employer, I am responsible for all new feature development and maintenance for our customer-facing and internal inventory/sales Rails app and associated API. In addition, I work closely with customers, sales, and other engineers to onboard new customers, ensure new rollouts go smoothly, and support existing customers with software or hardware questions. As an early employee on a small team, I have been intimately involved in engineering infrastructure decisions and workflow tools to improve productivity and manage our technical roadmap. I would love to continue using and growing these skills with a larger, diversely-skilled team at CrowdCompass.
+
+As a tech community organizer, I manage logistics, community safety, and technical projects for several meetups and open source projects. Currently, I am co-chairing this year’s Open Source Bridge conference, and am a maintainer of Calagator, Portland’s open source tech calendar aggregator. In these positions, I work to build effective teams, set team priorities, delegate responsibilities, and follow up with team members to ensure work is on schedule. I am excited to help build a product with CrowdCompass that I would love to use outside of work to help build inclusive community.
+
+I believe I would be an excellent addition to your team. I look forward to hearing from you soon!
+
+Best,
+Shawna C. Scott
